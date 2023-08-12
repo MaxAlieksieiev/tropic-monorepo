@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "run-web": "pnpm --filter client-react dev"
+    "run-web-client": "pnpm --filter client-react dev"
   },
   "keywords": [],
   "author": "",
