@@ -1,0 +1,5 @@
+packages:
+  - 'backend/*'
+  - 'mobile-app-ative/*'
+  - 'web/*'
+  - 'packages/*'
